@@ -1,2 +1,1 @@
-# STM32_TDA7294_AMP
-STM32 Controlled TDA7294 Amplifier
+# STM32 Controlled TDA7294 Amplifier
