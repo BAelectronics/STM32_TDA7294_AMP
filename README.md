@@ -1,4 +1,4 @@
-Kapcsolódó videó: https://youtu.be/A-13wsFyjP8
+Kapcsolódó videó / Related video: https://youtu.be/A-13wsFyjP8
 
 
 # STM32 vezérelt TDA7294 erősítő
