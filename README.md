@@ -1,5 +1,4 @@
 Kapcsolódó videó / Related video: https://youtu.be/A-13wsFyjP8
-The language of the video is Hungarian, but English subtitles are available.
 
 
 # STM32 vezérelt TDA7294 erősítő
@@ -11,6 +10,7 @@ Az erősítőpanel kapcsolási rajza nem saját tervezés, ez képként megtalá
 
 
 # STM32 Controlled TDA7294 Amplifier
+The language of the video is Hungarian, but English subtitles are available.
 Files, schematics, codes, etc. Everything what presented in the video and associated with the project.
 
 The control board schematic and PCB designed with KiCad.
