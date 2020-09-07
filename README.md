@@ -1,4 +1,5 @@
 Kapcsolódó videó / Related video: https://youtu.be/A-13wsFyjP8
+The language of the video is Hungarian, but English subtitles are available.
 
 
 # STM32 vezérelt TDA7294 erősítő
