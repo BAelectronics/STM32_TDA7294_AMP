@@ -1,4 +1,5 @@
 Kapcsolódó videó / Related video (Part 1): https://youtu.be/A-13wsFyjP8
+
 Kapcsolódó videó / Related video (Part 2): https://youtu.be/WkM5X-X5rjU
 
 The language of the video is Hungarian, but English subtitles are available. (Part 2 subtitles will be from February)
