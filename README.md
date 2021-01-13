@@ -1,7 +1,7 @@
 # Kapcsolódó videók / Related videos
-Part 1: https://youtu.be/A-13wsFyjP8
+[Part 1 (showing)](https://youtu.be/A-13wsFyjP8)
 
-Part 2: https://youtu.be/WkM5X-X5rjU
+[Part 2 (HW & SW explanation)](https://youtu.be/WkM5X-X5rjU)
 
 The language of the video is Hungarian, but English subtitles are available. (Part 2 subtitle will be from February)
 
