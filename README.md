@@ -3,7 +3,7 @@
 
 [Part 2 (HW & SW explanation)](https://youtu.be/WkM5X-X5rjU)
 
-The language of the video is Hungarian, but English subtitles are available. (Part 2 subtitle will be from February)
+The language of the video is Hungarian, but English subtitles are available. (Part 2 subtitle will be available soon)
 
 
 # STM32 vezérelt TDA7294 erősítő
